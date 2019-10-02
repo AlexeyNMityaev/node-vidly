@@ -1,3 +1,4 @@
 {
-    "jwtPrivateToken": "vidly_jwtPrivateToken"
+    "jwtPrivateToken": "vidly_jwtPrivateToken",
+    "db": "vidly_db"
 }
